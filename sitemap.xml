@@ -1,12 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/blog.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/keyword-research.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/about.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/reports/seo-report.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/reports/procedure.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/reports/keyword-report.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/posts/python-for-beginners.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/posts/generative-ai.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/posts/data-science-roadmap.html</loc></url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://focus-seo.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/blog.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/keyword-research.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/reports/seo-report.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/reports/procedure.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/reports/keyword-report.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/posts/python-for-beginners.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/posts/generative-ai.html</loc>
+  </url>
+
+  <url>
+    <loc>https://focus-seo.vercel.app/posts/data-science-roadmap.html</loc>
+  </url>
+
 </urlset>
